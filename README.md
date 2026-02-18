@@ -1,4 +1,6 @@
-Business Sales Performance Analytics Dashboard
+BUSINESS SALES PERFORMANCE ANALYTICS 
+
+
 📊 Project Overview
 This Power BI project provides a comprehensive analysis of retail sales performance across multiple dimensions including time, geography, customers, and products. The dashboard is designed to help stakeholders identify growth trends, monitor key performance indicators (KPIs), and understand customer purchasing behavior.
 
